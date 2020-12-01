@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SlothEnterprise.ProductApplication
+namespace SlothEnterprise.ProductApplication.Strategy
 {
     public class SelectiveInvoiceDiscountStrategy : IProductApplicationStrategy
     {

@@ -1,6 +1,7 @@
 ﻿using SlothEnterprise.External.V1;
 using SlothEnterprise.ProductApplication.Applications;
 using SlothEnterprise.ProductApplication.Products;
+using SlothEnterprise.ProductApplication.Strategy;
 using System;
 using System.Collections.Generic;
 using System.Text;
